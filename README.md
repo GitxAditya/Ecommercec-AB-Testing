@@ -1,7 +1,5 @@
 # Ecommercec-AB-Testing
 
-# E-commerce A/B Testing: Buy Now Button
-
 ## Overview
 This project evaluates whether a redesigned **Buy Now button** improves conversion rate, revenue per user, and contribution profit per user in an e-commerce business.
 
